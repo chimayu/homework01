@@ -7,6 +7,10 @@ body {
     width: 200px;
 }
 
+.fa-headphones {
+    font-size: 2rem;
+}
+
 .grid-img {
     width: 100%;
     border: #dddddd 1px solid;
