@@ -3,5 +3,10 @@ h1 {
 }
 
 .logo {
-    width: 10vw;
+    width: 100px;
+}
+
+.grid-img {
+    width: 250px;
+    height: 250px;
 }
