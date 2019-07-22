@@ -69,6 +69,10 @@ a:hover {
     font-weight: 100;
 }
 
+.js–hovercap__caption:hover {
+    cursor: pointer;
+}
+
 .headphone {
     width: 40px;
     margin-bottom: 12px;
